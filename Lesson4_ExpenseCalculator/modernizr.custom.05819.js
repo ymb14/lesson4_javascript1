@@ -5,7 +5,6 @@
 
 
 
-
 window.Modernizr = (function( window, document, undefined ) {
 
     var version = '2.6.2',
@@ -427,7 +426,6 @@ window.Modernizr = (function( window, document, undefined ) {
     Modernizr._cssomPrefixes  = cssomPrefixes;
 
 
-    
 
     Modernizr.testProp      = function(prop){
         return testProps([prop]);
